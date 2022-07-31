@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\validTime\validTime\bin\Debug\net6.0\validTime.exe
+C:\Users\nitesh\Desktop\C#\validTime\validTime\bin\Debug\net6.0\validTime.deps.json
+C:\Users\nitesh\Desktop\C#\validTime\validTime\bin\Debug\net6.0\validTime.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\validTime\validTime\bin\Debug\net6.0\validTime.dll
+C:\Users\nitesh\Desktop\C#\validTime\validTime\bin\Debug\net6.0\validTime.pdb
+C:\Users\nitesh\Desktop\C#\validTime\validTime\obj\Debug\net6.0\validTime.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\validTime\validTime\obj\Debug\net6.0\validTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\validTime\validTime\obj\Debug\net6.0\validTime.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\validTime\validTime\obj\Debug\net6.0\validTime.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\validTime\validTime\obj\Debug\net6.0\validTime.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\validTime\validTime\obj\Debug\net6.0\validTime.dll
+C:\Users\nitesh\Desktop\C#\validTime\validTime\obj\Debug\net6.0\refint\validTime.dll
+C:\Users\nitesh\Desktop\C#\validTime\validTime\obj\Debug\net6.0\validTime.pdb
+C:\Users\nitesh\Desktop\C#\validTime\validTime\obj\Debug\net6.0\validTime.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\validTime\validTime\obj\Debug\net6.0\ref\validTime.dll
